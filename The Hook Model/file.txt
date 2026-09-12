@@ -1,0 +1,10 @@
+The Hook Model is a four-stage, cyclical framework used to design products that build user habits. By repeatedly cycling through these stages, users begin to associate the product with internal emotional cues rather than relying on external marketing.
+
+The 4 Core Elements
+Trigger: The actuator of behavior. It begins as an external cue (like a push notification or an email) and eventually transitions into an internal cue (like feeling bored, lonely, or curious).
+
+Action: The simplest possible behavior performed in anticipation of a reward. It must have absolute minimal friction—like a single tap, a swipe, or pressing a button.
+
+Variable Reward: The unpredictable payoff that satisfies the user's need. Because the reward is inconsistent (acting like a psychological slot machine), it creates anticipation and drives desire.
+
+Investment: An action the user takes that stores value in the product (e.g., following an account, saving preferences, or adding friends). This improves the service for the user and automatically loads the next trigger, increasing the likelihood they will return.
