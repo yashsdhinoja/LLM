@@ -1,0 +1,13 @@
+# This file defines what our AI is allowed and not allowed to talk about.
+# You can update this list at any time.
+
+banned_topics:
+  - "medical advice"
+  - "medicine"
+  - "fever"
+  - "competitor price matching"
+  - "hacking"
+  
+system_requirements:
+  always_cite_sources: true
+  max_character_count: 500
