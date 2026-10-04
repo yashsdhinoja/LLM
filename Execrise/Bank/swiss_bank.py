@@ -146,6 +146,7 @@ class LoginScreen(tk.Frame):
 #         logout_btn.pack(fill="x", padx=50, pady=10)
 
 
+
 # class TransferScreen(tk.Frame):
 #     def __init__(self, parent, controller):
 #         super().__init__(parent, bg="#ffffff")
